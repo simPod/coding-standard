@@ -7,3 +7,5 @@ $foo = -1;
 if (2 - $foo === 3) {
     echo -$foo;
 }
+
+$x = -PHP_INT_MIN;

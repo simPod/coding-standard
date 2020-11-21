@@ -23,6 +23,8 @@
         <exclude name="PSR12.Functions.NullableTypeDeclaration.WhitespaceFound"/>
         <!-- checked by PSR12.ControlStructures.ControlStructureSpacing -->
         <exclude name="PSR2.ControlStructures.ControlStructureSpacing.SpacingAfterOpenBrace"/>
+        <!-- checked by SlevomatCodingStandard.Operators.NegationOperatorSpacing.InvalidSpaceAfterMinus -->
+        <exclude name="PSR12.Operators.OperatorSpacing.NoSpaceAfter"/>
     </rule>
 
     <!-- Force array element indentation with 4 spaces -->
