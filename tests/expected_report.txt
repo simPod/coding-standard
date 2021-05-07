@@ -3,6 +3,7 @@ PHP CODE SNIFFER REPORT SUMMARY
 ----------------------------------------------------------------------
 FILE                                                  ERRORS  WARNINGS
 ----------------------------------------------------------------------
+tests/input/array_bracket_placement.php                4      0
 tests/input/array_indentation.php                     10      0
 tests/input/arrow-functions-format.php                10      0
 tests/input/assignment-operators.php                  4       0
