@@ -6,6 +6,8 @@ namespace RequireOneDocComment;
 
 /**
  * First doc comment.
+ */
+/**
  * Second doc comment.
  */
 class RequireOneDocComment
